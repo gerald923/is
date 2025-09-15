@@ -1,0 +1,9 @@
+lienzo(800, 600);
+
+rectangulo cuerpoBarco(300, 300, 200, 150, rojo);
+triangulo techo(300, 300, 400, 200, 500, 300, marron);
+rectangulo puerta(375, 375, 50, 100, marron);
+cuadrado ventanaIzquierda(320, 320, 30, celeste);
+cuadrado ventanaDerecha(450, 320, 30, celeste); 
+rectangulo pasto(0, 450, 800, 500, verde);
+circulo sol(700, 0, 80, amarillo);
